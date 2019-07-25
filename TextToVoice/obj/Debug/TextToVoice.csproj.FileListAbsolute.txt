@@ -10,3 +10,6 @@ F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.GenerateResource.
 F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.exe
 F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.pdb
 F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\TextToVoice\TextToVoice\bin\Debug\TextToVoice.exe.config
+D:\Users\Desktop\TextToVoice\TextToVoice\obj\Debug\TextToVoice.exe
+D:\Users\Desktop\TextToVoice\TextToVoice\obj\Debug\TextToVoice.pdb

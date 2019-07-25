@@ -47,8 +47,7 @@
             this.textBox1.IsPasswordChat = '\0';
             this.textBox1.IsSystemPasswordChar = false;
             this.textBox1.Lines = new string[] {
-        "实体经济健康发展是防范化解风险的基础。要注重在稳增长的基础上防风险，强化财政政策、货币政策的逆周期调节作用，确保经济运行在合理区间，坚持在推动高质量发展中防范化解" +
-            "风险。"};
+        "欢迎使用在线语音合成工具."};
             this.textBox1.Location = new System.Drawing.Point(4, 28);
             this.textBox1.Margin = new System.Windows.Forms.Padding(0);
             this.textBox1.MaxLength = 32767;
@@ -73,13 +72,11 @@
             this.textBox1.SkinTxt.Name = "BaseText";
             this.textBox1.SkinTxt.Size = new System.Drawing.Size(579, 203);
             this.textBox1.SkinTxt.TabIndex = 0;
-            this.textBox1.SkinTxt.Text = "实体经济健康发展是防范化解风险的基础。要注重在稳增长的基础上防风险，强化财政政策、货币政策的逆周期调节作用，确保经济运行在合理区间，坚持在推动高质量发展中防范化解" +
-    "风险。";
+            this.textBox1.SkinTxt.Text = "欢迎使用在线语音合成工具.";
             this.textBox1.SkinTxt.WaterColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(127)))), ((int)(((byte)(127)))));
             this.textBox1.SkinTxt.WaterText = "";
             this.textBox1.TabIndex = 5;
-            this.textBox1.Text = "实体经济健康发展是防范化解风险的基础。要注重在稳增长的基础上防风险，强化财政政策、货币政策的逆周期调节作用，确保经济运行在合理区间，坚持在推动高质量发展中防范化解" +
-    "风险。";
+            this.textBox1.Text = "欢迎使用在线语音合成工具.";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.textBox1.WaterColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(127)))), ((int)(((byte)(127)))));
             this.textBox1.WaterText = "";
