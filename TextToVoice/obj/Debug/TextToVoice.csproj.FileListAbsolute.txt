@@ -1,0 +1,12 @@
+F:\cSharp\TextToVoice\TextToVoice\bin\Debug\TextToVoice.exe.config
+F:\cSharp\TextToVoice\TextToVoice\bin\Debug\TextToVoice.exe
+F:\cSharp\TextToVoice\TextToVoice\bin\Debug\TextToVoice.pdb
+F:\cSharp\TextToVoice\TextToVoice\bin\Debug\CSkin.dll
+F:\cSharp\TextToVoice\TextToVoice\bin\Debug\CSkin.xml
+F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.Form1.resources
+F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.Properties.Resources.resources
+F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.SetConfig.resources
+F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.GenerateResource.Cache
+F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.exe
+F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.pdb
+F:\cSharp\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csprojResolveAssemblyReference.cache
